@@ -49,7 +49,7 @@ let s:types = {
 	\ 'awk'    : '%sawk%sawk%sf',
 	\ 'beta'   : '%sbeta%sbeta%sfsv',
 	\ 'c'      : '%sc%sc%sdgsutvf',
-	\ 'cpp'    : '%sc++%sc++%snvdtcgsuf',
+	\ 'cpp'    : '%sc++%sc++%snvdtcgsufm',
 	\ 'cs'     : '%sc#%sc#%sdtncEgsipm',
 	\ 'cobol'  : '%scobol%scobol%sdfgpPs',
 	\ 'eiffel' : '%seiffel%seiffel%scf',
